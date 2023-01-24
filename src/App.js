@@ -1,3 +1,4 @@
+import React from 'react';
 import { CssBaseline, ThemeProvider } from '@mui/material';
 import { Routes, Route } from 'react-router-dom';
 import { ColorModeContext, useMode} from './theme';
@@ -29,7 +30,7 @@ function App() {
           <main className="content">
             <TopBar />
             <Routes>
-              <Route path="/team" element={<Dashboard />}></Route>
+              <Route path="/" element={<Dashboard />}></Route>
               {/* <Route path="/team" element={<Team />} />
               <Route path="/contacts" element={<Contacts />} />
               <Route path="/invoices" element={<Invoices />} />
