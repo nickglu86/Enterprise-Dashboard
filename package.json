@@ -1,5 +1,6 @@
 {
   "name": "enterprise-dashboard",
+  "homepage": "https://nickglu86.github.io/enterprise-dashboard/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
