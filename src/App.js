@@ -29,7 +29,7 @@ function App() {
           <main className="content">
             <Topbar setIsSidebar={setIsSidebar} />
             <Routes basename="/Enterprise-Dashboard">
-              <Route path="/" element={<Dashboard />} />
+              <Route path="/Enterprise-Dashboard" element={<Dashboard />} />
               <Route path="/team" element={<Team />} />
               <Route path="/contacts" element={<Contacts />} />
               <Route path="/invoices" element={<Invoices />} />
