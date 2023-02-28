@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Enterprise-Dashboard/static/css/main.07a6e487.css",
-    "main.js": "/Enterprise-Dashboard/static/js/main.7029439b.js",
+    "main.js": "/Enterprise-Dashboard/static/js/main.c82995cc.js",
     "index.html": "/Enterprise-Dashboard/index.html",
     "main.07a6e487.css.map": "/Enterprise-Dashboard/static/css/main.07a6e487.css.map",
-    "main.7029439b.js.map": "/Enterprise-Dashboard/static/js/main.7029439b.js.map"
+    "main.c82995cc.js.map": "/Enterprise-Dashboard/static/js/main.c82995cc.js.map"
   },
   "entrypoints": [
     "static/css/main.07a6e487.css",
-    "static/js/main.7029439b.js"
+    "static/js/main.c82995cc.js"
   ]
 }
